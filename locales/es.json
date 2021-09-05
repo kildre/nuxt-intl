@@ -1,0 +1,8 @@
+{
+  "title": "Jet Set Internacional",
+  "base": "Casa",
+  "depart": "Salir",
+  "greeting": "Buenas tardes damas y caballeros. Les habla su capitan. Bienvenido a bordo del vuelo DC-10 número 1313 Navegaremos a una altura de 35, 000 pies a una velocidad del aire de 600 millas por hora. Se proporcionarán audífonos a pedido para un variado programa de música en vuelo Tenga un buen vuelo",
+  "departure": "Saldrá de la Ciudad de México, Acapulco o Tijuana.",
+  "destinations": "Zurich, Berlin, Monteeal, Minsk, Moscow, Cape Town"
+}

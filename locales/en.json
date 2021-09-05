@@ -1,0 +1,8 @@
+{
+  "title": "International Jet Set",
+  "base": "Home",
+  "depart": "Depart",
+  "greeting": "Good evening ladies and gentlemen. This is your captain speaking. Welcome aboard DC-10 flight number 1313 We will be cruising at a height of 35, 000 feet at an air speed of 600 miles per hour. Headphones will be provided by request for a varied program of in flight music Have a good flight",
+  "departure": "You will depart from New York, Miami, or Los Angeles.",
+  "destinations": "Zurich, Berlin, Monteeal, Minsk, Moscow, Cape Town"
+}
